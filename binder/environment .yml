@@ -38,3 +38,4 @@ dependencies:
   - jupyter-nbextensions-configurator=0.4.1
   - jupyterlab-pygments=0.1.2
   - jupyterlab-server=2.1.0
+  
